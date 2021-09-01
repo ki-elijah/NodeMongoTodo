@@ -18,7 +18,7 @@ h1 {
 }
 .styling {
 	font-weight: 800;
-	color: rgb(211, 88, 17);
+	color: rgb(255, 94, 0);
 }
 .input_div {
 	display: flex;
@@ -46,7 +46,7 @@ h1 {
 	color: #fff;
 	font-size: 30px;
 	margin: 0.25rem;
-	background-color: rgb(38, 11, 158);
+	background-color: rgb(80, 255, 64);
 	cursor: pointer;
 }
 .addButton:hover {
@@ -78,7 +78,7 @@ h1 {
 	margin: 0 0.5rem;
 	background: none;
 	outline: none;
-	color: white;
+	color: rgb(255, 239, 93);
 	border: none;
 	cursor: pointer;
 }
@@ -88,7 +88,7 @@ h1 {
 	font-family: 'Hind', sans-serif;
 	background: none;
 	outline: none;
-	color: #e00;
+	color: rgb(255, 0, 98);
 	border: none;
 	cursor: pointer;
 }
